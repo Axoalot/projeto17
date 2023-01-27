@@ -50,7 +50,7 @@ mainCyclist.scale=0.07;
 //set collider for mainCyclist
 
 //mainCyclist.setCollission("rectangle",0,0,40,40);
-mainCyclist.setCollider("rectangle",0,0,40,40);
+mainCyclist.setCollider("rectangle",0,0,50,40);
 
   
 gameOver = createSprite(650,150);
